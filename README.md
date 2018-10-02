@@ -9,7 +9,7 @@ General Info
 [Blog post about the relations between Chrome, Chromium, and Google](https://blog.chromium.org/2008/10/google-chrome-chromium-and-google.html)  
 [Slideshow overview of Chrome's rendering pipeline](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y)  
 
-Chromium News  
+## Chromium News  
 [Chromium blogs main page](https://blog.chromium.org/)  
 [Chrome news blog](https://blog.google/products/chrome/)  
 
