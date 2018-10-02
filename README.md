@@ -1,11 +1,13 @@
-Group Members: Cyrus Ng, Clayton Winsor, Jason Lee, Michael Pirie, Omri Harary, Otto Breski-Thompson
+Group Members: Cyrus Ng, Clayton Winsor, Jason Lee, Michael Pirie, Omri Harary, Otto Breski-Thompson  
 
 ## Chrome Resources
 
+General Info
 [Chromium on Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))  
-[Source mirror on GitHub](https://github.com/chromium/chromium)  
 [Chromium explanation](https://www.computerworld.com/article/3261009/web-browsers/googles-chromium-browser-explained.html)  
-[Chromium issue tracker](https://bugs.chromium.org/p/chromium/issues/list)
+
+[Source mirror on GitHub](https://github.com/chromium/chromium)  
+[Chromium issue tracker](https://bugs.chromium.org/p/chromium/issues/list)  
 [Project Zero issue tracker](https://bugs.chromium.org/p/project-zero/issues/list)  
 [Chromium security FAQ](https://dev.chromium.org/Home/chromium-security/security-faq?pli=1)  
 [Chromium policy list](https://dev.chromium.org/administrators/policy-list-3)  
