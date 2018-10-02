@@ -15,3 +15,5 @@
 [How-to guides for accessing and working on the source code](https://www.chromium.org/developers/how-tos/get-the-code)  
 [A Reference Architecture for Web Browsers](https://grosskurth.ca/papers/browser-refarch.pdf)  
 [Chrome news blog](https://blog.google/products/chrome/)  
+[Chromium design documents](https://www.chromium.org/developers/design-documents)  
+[Chromium's high-level architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)  
