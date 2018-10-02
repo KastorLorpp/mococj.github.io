@@ -17,3 +17,4 @@
 [Chrome news blog](https://blog.google/products/chrome/)  
 [Chromium design documents](https://www.chromium.org/developers/design-documents)  
 [Chromium's high-level architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture)  
+[Slideshow overview of Chrome's rendering pipeline](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y)
