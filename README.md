@@ -3,15 +3,15 @@ Group Members: Cyrus Ng, Clayton Winsor, Jason Lee, Michael Pirie, Omri Harary, 
 ## Chrome Resources
 
 General Info  
-  [Chromium on Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))  
-  [Chromium explanation](https://www.computerworld.com/article/3261009/web-browsers/googles-chromium-browser-explained.html)  
-  [Archlinux wiki article on Chromium](https://wiki.archlinux.org/index.php/Chromium)  
-  [Blog post about the relations between Chrome, Chromium, and Google](https://blog.chromium.org/2008/10/google-chrome-chromium-and-google.html)  
-  [Slideshow overview of Chrome's rendering pipeline](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y)  
+[Chromium on Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))  
+[Chromium explanation](https://www.computerworld.com/article/3261009/web-browsers/googles-chromium-browser-explained.html)  
+[Archlinux wiki article on Chromium](https://wiki.archlinux.org/index.php/Chromium)  
+[Blog post about the relations between Chrome, Chromium, and Google](https://blog.chromium.org/2008/10/google-chrome-chromium-and-google.html)  
+[Slideshow overview of Chrome's rendering pipeline](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y)  
 
 Chromium News  
-  [Chromium blogs main page](https://blog.chromium.org/)  
-  [Chrome news blog](https://blog.google/products/chrome/)  
+[Chromium blogs main page](https://blog.chromium.org/)  
+[Chrome news blog](https://blog.google/products/chrome/)  
 
 Source Code and Policies  
 [Source mirror on GitHub](https://github.com/chromium/chromium)  
