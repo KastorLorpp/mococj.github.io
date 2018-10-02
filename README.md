@@ -1,3 +1,5 @@
+Group Members: Cyrus Ng, Clayton Winsor, Jason Lee, Michael Pirie, Omri Harary, Otto Breski-Thompson
+
 ## Chrome Resources
 
 [Chromium on Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))  
