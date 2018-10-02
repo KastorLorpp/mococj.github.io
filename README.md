@@ -2,7 +2,7 @@ Group Members: Cyrus Ng, Clayton Winsor, Jason Lee, Michael Pirie, Omri Harary, 
 
 ## Chrome Resources
 
-General Info
+General Info  
 [Chromium on Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))  
 [Chromium explanation](https://www.computerworld.com/article/3261009/web-browsers/googles-chromium-browser-explained.html)  
 
