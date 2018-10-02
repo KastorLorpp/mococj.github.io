@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Chrome Resources
 
-You can use the [editor on GitHub](https://github.com/MOCOCJ/mococj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MOCOCJ/mococj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://en.wikipedia.org/wiki/Chromium_(web_browser)  
+https://github.com/chromium/chromium  
+https://www.computerworld.com/article/3261009/web-browsers/googles-chromium-browser-explained.html  
+https://bugs.chromium.org/p/project-zero/issues/list  
+https://dev.chromium.org/Home/chromium-security/security-faq?pli=1  
+https://dev.chromium.org/administrators/policy-list-3  
+https://dev.chromium.org/Home  
+https://blog.chromium.org/  
+https://blog.chromium.org/2008/10/google-chrome-chromium-and-google.html  
+https://dev.chromium.org/user-experience  
+https://www.chromium.org/nativeclient/getting-started/getting-started-background-and-basics  
+https://www.chromium.org/developers/how-tos/get-the-code  
+https://grosskurth.ca/papers/browser-refarch.pdf  
+https://blog.google/products/chrome/  
